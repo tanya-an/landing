@@ -28,7 +28,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem "font-awesome-rails"
 gem 'bourbon'
 gem 'neat'
-
+gem "normalize-rails"
 gem 'bootstrap-sass'
 
 # Use ActiveModel has_secure_password
