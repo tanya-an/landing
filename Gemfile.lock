@@ -89,7 +89,6 @@ GEM
     nokogiri (1.6.8)
       mini_portile2 (~> 2.1.0)
       pkg-config (~> 1.1.7)
-    normalize-rails (4.1.1)
     pkg-config (1.1.7)
     rack (1.6.4)
     rack-test (0.6.3)
@@ -168,7 +167,6 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
   neat
-  normalize-rails
   rails (= 4.2.1)
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
