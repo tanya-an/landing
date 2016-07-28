@@ -18,8 +18,8 @@
  @import "bourbon";
  @import "neat";
  @import "compass";
- 
- @import "partials/variables";
+ @import "compass/reset";
+  @import "partials/variables";
  @import "partials/mixins";
  @import "partials/layout";
  @import "style";
