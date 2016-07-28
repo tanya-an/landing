@@ -27,7 +27,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # design
 gem "font-awesome-rails"
 gem 'bourbon'
+
 gem 'neat'
+gem 'compass-rails', github: 'Compass/compass-rails'
 gem "normalize-rails"
 gem 'bootstrap-sass'
 
